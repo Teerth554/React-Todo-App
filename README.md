@@ -2,8 +2,6 @@
 
 A simple and efficient To-Do List application built using **React** and **Context API**, with persistent state managed via **localStorage**.
 
----
-
 ## 🚀 Features
 
 - ✍️ Add new tasks
@@ -14,13 +12,11 @@ A simple and efficient To-Do List application built using **React** and **Contex
 - 💾 Stores tasks in localStorage so your data stays even after refresh
 - 💡 Simple, responsive UI with Tailwind CSS
 
----
 
-## 📸 Screenshots
+```bash
+git clone https://github.com/your-username/react-todo-app.git
+cd react-todo-app
 
-> _(Add screenshots here if you wish. You can drag and drop images on GitHub)_
+npm install
 
----
-
-## 📁 Project Structure
-
+npm start
